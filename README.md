@@ -1,4 +1,5 @@
-# Image-Based Encryption & Decryption Using Python
+            
+# Stegno (Image-Based Encryption & Decryption Using Python)
 
 ## 📌 Project Overview
 This project provides a **secure image-based encryption and decryption system** using **Python and OpenCV**. It allows users to hide secret messages inside an image using pixel manipulation and retrieve them securely using a passcode.
